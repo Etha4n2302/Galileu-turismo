@@ -10,8 +10,8 @@ export const data = [
         {
           "titulo": "Vinícola Guaspari",
           "descricao": "Vinícola que oferece visitas guiadas pelos vinhedos e degustação de vinhos. A visita inclui passeio pela indústria e o Wine Bar com vista para os vinhedos.",
-          "imagem": "images/vinicola-guaspari.jpg",
-          "categorias": ["Turismo Rural", "Degustação"]
+          "imagem": "images/foto guaspari.jpg",
+          "categorias": ["Ecoturismo", "Degustação Sensoriais"]
         },
         
           {
@@ -42,19 +42,59 @@ export const data = [
             "titulo": "Rancho Rio Manso",
             "descricao": "Espaço rural que oferece lazer em contato com a natureza, promovendo passeios e conexão com o ambiente natural.",
             "imagem": "images/rancho-rio-manso.jpg",
-            "categorias": ["Natureza", "Turismo Rural"]
+            "categorias": ["Natureza", "Ecoturismo"]
           },
           {
             "titulo": "Cristo Redentor",
             "descricao": "Estátua de 11 metros de altura inspirada no Cristo Redentor do Rio de Janeiro, localizada em um dos pontos mais altos da cidade.",
-            "imagem": "images/cristo-redentor.jpg",
+            "imagem": "images/cristo.png",
             "categorias": ["Religioso", "Turístico"]
           },
           {
             "titulo": "Santuário Santa Luzia",
             "descricao": "A Igreja de Santa Luzia localiza-se no bairro rural de mesmo nome na cidade de Espírito Santo do Pinhal/SP.A região onde se situa era conhecida – em fins do século XIX – como Bairro Morro Azul.",
-            "imagem": "images/santa luzia.jpg",
-            "categorias": ["religião"]
+            "imagem": "images/santa-luzia.png",
+            "categorias": ["Religioso"]
 
-          }
+          },
+          {
+            "titulo": "Igreja matriz",
+              "descricao":"Igreja Matriz do Divino Espírito Santo, praça central de Espírito Santo do Pinhal. Lindíssima, com belas pinturas, espaço amplo e belos altares em madeira. ",
+              "imagem": "images/igreja matriz.jpg",
+              "categorias":["Religioso", "Turístico"]
+          },
+        
+            {
+              "titulo": "Terra de kurí",
+              "descricao":" O Terra de Kurí, no Espírito Santo Do Pinhal, oferece acomodações apenas para adultos com jardim e bar.",
+              "imagem": "images/Terra de kurí.jpg",
+              "categorias": ["Pousada", "Turístico"]
+            },
+
+            {
+              "titulo": "Lago municipal",
+              "descricao": "Localizado em uma área privilegiada no município, o Lago Municipal é uma das principais atrações de Espírito Santo do Pinhal. ",
+              "imagem": "images/lago municipal.jpg",
+              "categorias":["Natureza", "Turístico"]
+              },
+              {
+                "titulo": "Inverno D' Itália",
+                "descricao": " Uma rede de cafeterias pinhalense, focada nos cafés especiais de Espírito Santo do Pinhal, com deliciosos doces e salgados produzidos em confeitaria própria.",
+                "imagem": "images/inverno de italia.png",
+                "categorias": ["Degustação Sensoriais", "Cafeteria"]
+              },
+              {
+                "titulo": "Casa do Ipê",
+                "descricao": "Uma chácara dentro da cidade que abriga o segundo vinhedo mais antigo de Pinhal, além de sua culinária impecavél.",
+                "imagem": "images/casa do ipe.png",
+                "categorias": ["Degustação Sensoriais","Vinhos"]
+              },
+              {
+                "titulo": "Toca do Kaynã",
+                "descricao": "Fazenda localizada aos pés da Serra da Mantiqueira paulista, com experiências sem iguais.",
+                "imagem": "images/toca kayna.png",
+                "categorias": ["Ecoturismo","Degustação Sensoriais"]
+              },
+
+          
         ];       
