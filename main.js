@@ -41,7 +41,7 @@ function rendercards(data) {
 
 function createHeaderCategorias(data) {
     // extrai todos as categorias e remove duplicadas usando o set 
-    const categoriasUnicas = ['todas', ...new Set(data.flatMap(item => item.categorias))];
+    const categoriasUnicas = ['Todas', ...new Set(data.flatMap(item => item.categorias))];
 
     //cria o HTML do header com todas as categorias
     const categoriasHTML = categoriasUnicas
@@ -76,7 +76,7 @@ function createHeaderCategorias(data) {
 
 //função para filtrar os cards pot categorias
 function filtrarPorCategorias(categoria) {
-    if (categoria === 'todas') {
+    if (categoria === 'Todas') {
         rendercards(data); // se a categorias for "All", renderiza todos as cards
     } else {
         const filteredData = data.filter(item => item.categorias.includes(categoria))
