@@ -11,7 +11,7 @@ export const data = [
           "titulo": "Vinícola Guaspari",
           "descricao": "Vinícola que oferece visitas guiadas pelos vinhedos e degustação de vinhos. A visita inclui passeio pela indústria e o Wine Bar com vista para os vinhedos.",
           "imagem": "images/foto guaspari.jpg",
-          "categorias": ["Ecoturismo", "Degustação Sensoriais"]
+          "categorias": ["Ecoturismo", "Degustação Sensoriais","Vinhos"]
         },
         
           {
