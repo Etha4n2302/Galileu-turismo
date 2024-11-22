@@ -24,7 +24,7 @@ export const data = [
             "titulo": "Palácio do Café",
             "descricao": "Inaugurado em 1893, o Palácio do Café é um símbolo da história do café em Espírito Santo do Pinhal, atualmente sede do governo municipal e do Centro Cultural.",
             "imagem": "images/palacio.jpg",
-            "categorias": ["Histórico", "Cultural","Educação"]
+            "categorias": ["Histórico", "Cultural","Educação","Arquitetura"]
           },
           {
             "titulo": "Fazenda Mocoquinha",
@@ -48,7 +48,7 @@ export const data = [
             "titulo": "Cristo Redentor",
             "descricao": "Estátua de 11 metros de altura inspirada no Cristo Redentor do Rio de Janeiro, localizada em um dos pontos mais altos da cidade.",
             "imagem": "images/cristo.png",
-            "categorias": ["Religioso", "Turístico"]
+            "categorias": ["Religioso", "Turístico","Arquitetura"]
           },
           {
             "titulo": "Santuário Santa Luzia",
@@ -61,7 +61,7 @@ export const data = [
             "titulo": "Igreja matriz",
               "descricao":"Igreja Matriz do Divino Espírito Santo, praça central de Espírito Santo do Pinhal. Lindíssima, com belas pinturas, espaço amplo e belos altares em madeira. ",
               "imagem": "images/igreja matriz.jpg",
-              "categorias":["Religioso", "Turístico"]
+              "categorias":["Religioso", "Turístico","Arquitetura"]
           },
         
             {
