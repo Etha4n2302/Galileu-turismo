@@ -24,7 +24,7 @@ export const data = [
             "titulo": "Palácio do Café",
             "descricao": "Inaugurado em 1893, o Palácio do Café é um símbolo da história do café em Espírito Santo do Pinhal, atualmente sede do governo municipal e do Centro Cultural.",
             "imagem": "images/palacio.jpg",
-            "categorias": ["Histórico", "Cultural"]
+            "categorias": ["Histórico", "Cultural","Educação"]
           },
           {
             "titulo": "Fazenda Mocoquinha",
@@ -36,7 +36,7 @@ export const data = [
             "titulo": "Casarão 175",
             "descricao": "Construído em 1903, o Casarão 175 é um exemplo da arquitetura do final do século XIX e atualmente funciona como um centro cultural.",
             "imagem": "images/casarao-175.jpg",
-            "categorias": ["Histórico", "Arquitetura"]
+            "categorias": ["Histórico", "Arquitetura","Educação"]
           },
           {
             "titulo": "Rancho Rio Manso",
@@ -68,7 +68,7 @@ export const data = [
               "titulo": "Terra de kurí",
               "descricao":" O Terra de Kurí, no Espírito Santo Do Pinhal, oferece acomodações apenas para adultos com jardim e bar.",
               "imagem": "images/Terra de kurí.jpg",
-              "categorias": ["Pousada", "Turístico"]
+              "categorias": ["Pousada", "Turístico","Educação"]
             },
 
             {
@@ -93,7 +93,7 @@ export const data = [
                 "titulo": "Toca do Kaynã",
                 "descricao": "Fazenda localizada aos pés da Serra da Mantiqueira paulista, com experiências sem iguais.",
                 "imagem": "images/toca kayna.png",
-                "categorias": ["Ecoturismo","Degustação Sensoriais"]
+                "categorias": ["Ecoturismo","Degustação Sensoriais","Educação"]
               },
 
           
