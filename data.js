@@ -53,7 +53,7 @@ export const data = [
           {
             "titulo": "Santuário Santa Luzia",
             "descricao": "A Igreja de Santa Luzia localiza-se no bairro rural de mesmo nome na cidade de Espírito Santo do Pinhal/SP.A região onde se situa era conhecida – em fins do século XIX – como Bairro Morro Azul.",
-            "imagem": "images/santa luiza.png",
+            "imagem": "images/santa-luzia.png",
             "categorias": ["Religioso"]
 
           },
