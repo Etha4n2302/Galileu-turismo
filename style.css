@@ -35,9 +35,10 @@ color: white;
 }
 
 .categorias span {
-    background-color: rgb(198, 185, 168);
-    color: black;
+    background-color: rgb(214, 104, 166);
+    color: rgb(255, 255, 255);
     padding: 4px;
+    border-radius: 6px;
 }
 #elemento-pai {
  
@@ -57,6 +58,24 @@ border: none;
 }
 
 .active {
-    background-color: yellow;
+    background-color: rgb(214, 104, 166);
     font-weight: bold;
+    color: aliceblue;
 }
+.card_detalhes p{
+    font-family: tahoma;
+    font-size: 16px;
+}
+@media (max-width:768px){
+    .card_ponto_turistico {
+        flex-direction: column ;
+    }
+  .card_imagem {
+    width:100%;
+    max-width:100%
+  }
+  #header {
+    flex-wrap: wrap;
+  }  
+}
+.titulo {font-family: tahoma;}
